@@ -25,7 +25,7 @@ npm install gh-pages --save-dev
 3. Add the `homepage` property to `package.json` file at the top level.
 
 ```
-"homepage": https://<github-username>.github.io/<repo-name>"
+"homepage": "https://<github-username>.github.io/<repo-name>"
 ```
 `<github-username>` should be your GitHub username, and `<repo-name>` is the name of your GitHub repository.
 
