@@ -5,7 +5,7 @@ We wil use Gradescope for assignments in this course. For your first submission,
 
 **Add the URL of your website:**
 
-We will need to evaluate your **deployed** website of your homework. In your repository, add a README.md or README.txt that contains the URL to the website running online, like [this example](https://github.com/CMU-PUI-2024/teach-pui-example). 
+We will need to evaluate your **deployed** website of your homework. In your repository, add a README.md or README.txt that contains the URL to the website running online, like [this example](https://github.com/CMU-PUI-2024/pui-homework-template). 
 (We assume that you did the [homework deployment tutorial](./HWDeployment.md) at this point.)
 
 
