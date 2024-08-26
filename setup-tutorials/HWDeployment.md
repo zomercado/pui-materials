@@ -8,7 +8,7 @@ For the assignments in this class, you will upload all code to a single reposito
 
 We have prepared a **Video Tutorial** for this conent as well: https://youtu.be/okINPJAZw6s?si=GDjOscworM3dzVPF 
 
-We recommend you start by "forking" the example repository that we've created for you, called `interactive-structures/pui-homework-template`. To do so, go to the [repository page](https://github.com/interactive-structures/pui-homework-template) and click the Fork button in the upper right. You should see a dialog like this:
+We recommend you start by "forking" the example repository that we've created for you, called `CMU-PUI-2024/pui-homework-template`. To do so, go to the [repository page](https://github.com/CMU-PUI-2024/pui-homework-template) and click the Fork button in the upper right. You should see a dialog like this:
 
 ![Screenshot 1 of dialog giving options for forking the homework example repository.](./assets/github-fork-new-1.png)
 ![Screenshot 2 of dialog giving options for forking the homework example repository.](./assets/github-fork-new-2.png)

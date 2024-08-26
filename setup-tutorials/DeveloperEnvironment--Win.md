@@ -41,7 +41,7 @@ To install the extension, simply search for "Live Server" in the Extensions side
 
 ### Using Live Server
 
-So, how does it work? Well, let's say you've written some code for a webpage, like the [example repository](https://github.com/interactive-structures/teach-pui-example) we've given you to model your assignments on.
+So, how does it work? Well, let's say you've written some code for a webpage, like the [example repository](https://github.com/CMU-PUI-2024/teach-pui-example) we've given you to model your assignments on.
 
 Now that you've installed Live Server, you'll notice a Go Live button in the bottom right corner of the screen. If you click that button, it will start a "server" that opens a new page in your browser running your code. Easy as that!
 
