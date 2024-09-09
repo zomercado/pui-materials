@@ -16,4 +16,68 @@ body {
 }
 
 /* ---------- NOTECARD ------------------------------------------------------ */
+.notecard {
+  display: flex;
 
+  box-sizing: border-box;
+
+  width: 450px;
+  min-height: 150px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
+  padding: 20px;
+  
+  border-radius: 8px;
+  background-color: #212121;
+
+}
+
+.notecard-left {
+  width:auto;
+  background-color: blue;
+  flex-grow: 1; /* determines how they will behave when there is extra space around them */
+}
+
+.notecard-right {
+  background-color: green;
+  width: 30px;
+  margin-left: auto;
+  flex-shrink: 0; /* do not shrink the size of the other element*/
+}
+
+.note-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.note-body {
+  font-size: 14px;
+  font-weight: 400;
+  color: #939393;
+}
+
+.notecard-main-content {
+  display: flex;
+}
+
+.notecard-thumbnail {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+
+object-fit: cover;
+}
+
+.notecard-text{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.notecard-footer {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #595959;
+}
